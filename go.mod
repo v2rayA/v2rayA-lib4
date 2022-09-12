@@ -7,7 +7,6 @@ require (
 	github.com/beevik/ntp v0.3.0
 	github.com/devfeel/mapper v0.7.5
 	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
-	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.7.1
 	github.com/golang/protobuf v1.5.2
 	github.com/google/gopacket v1.1.19
@@ -28,7 +27,6 @@ require (
 	github.com/v2rayA/beego/v2 v2.0.7
 	github.com/v2rayA/shadowsocksR v1.0.4
 	github.com/v2rayA/v2ray-lib v0.0.0-20211227083129-d4f59fbf62b8
-	github.com/vearutop/statigz v1.1.7
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
 	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
